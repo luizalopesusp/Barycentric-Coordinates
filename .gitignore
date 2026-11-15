@@ -1,0 +1,9 @@
+# CMake build output
+build/
+
+# Qt Creator / Eclipse per-user settings
+CMakeLists.txt.user*
+.qtcreator/
+.settings/
+.project
+.cproject
